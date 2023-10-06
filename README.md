@@ -1,4 +1,4 @@
-<#
+
     .SYNOPSIS
     Finds all mailbox auth methods and places them into table.csv
     EG.
@@ -44,4 +44,4 @@
     https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/convertfrom-json?view=powershell-7.3
     https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.identity.signins/get-mguserauthenticationmethod?view=graph-powershell-1.0
     https://devblogs.microsoft.com/scripting/powertip-create-empty-string-with-powershell/
-#>
+
